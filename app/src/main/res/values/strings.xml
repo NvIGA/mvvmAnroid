@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mvvm</string>
+    <string name="name">Jack</string>
+    <string name="ageFormat">23</string>
+</resources>
